@@ -16,3 +16,6 @@ how might using version control make you more confident to make changes that cou
  there is always a chance to comme back so making error is not a problem if u make an error u cant' fix just go back to interior state-> problem solved !
 
  now that i have my workspace set up, what do i want to try git for ? : make a projet and doing as many changes as i want without worring about it to break up !
+
+what are some situatins when branches would be helpfull in keeping your history organized? how would branches help? : 
+when you want to do some parelle game when u don't want to modife the offcialsfile but rather try out some thing different 

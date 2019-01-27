@@ -2,3 +2,7 @@ what happens when you intialize a repository ? why do we need to do it ? :
 it create a .file which conatin metadata of that ripo
 how is the staging area different from the working directory an d the repositroy ? whhat value do youthink it offers ?
 the as long as we din't commit the changes doesn't take place in wd and repo btut only in staging area it offers the possibility to choose which file to commit 
+
+how can you use the staging area to make sure you have one commit per logical change ?
+
+u can add changes tpo staging area and commit when u think u have enough logical chnage to commit 
