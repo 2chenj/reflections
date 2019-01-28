@@ -6,3 +6,9 @@ the as long as we din't commit the changes doesn't take place in wd and repo btu
 how can you use the staging area to make sure you have one commit per logical change ?
 
 u can add changes tpo staging area and commit when u think u have enough logical chnage to commit 
+
+how do the diagrams help you visualise the branch structure?:
+it uses different commits diagram means visualise wht is that questions !!
+
+whta si the result of merging two branches together? why do we represent it in the diagram the way we do ?
+it regroupes all commit in one log history ! because every commit point is accessible from the marge commit 
