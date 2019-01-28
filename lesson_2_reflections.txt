@@ -11,4 +11,6 @@ how do the diagrams help you visualise the branch structure?:
 it uses different commits diagram means visualise wht is that questions !!
 
 whta si the result of merging two branches together? why do we represent it in the diagram the way we do ?
-it regroupes all commit in one log history ! because every commit point is accessible from the marge commit 
+it regroupes all commit in one log history ! because every commit point is accessible from the marge commit
+
+what are the pros and cons of git's automatic merging vs always doing merges manually ? : it doesn't do all automatically we manually fix conflict case manally atleast we know wht we decided to keep between two modification or the same line fct doc...
