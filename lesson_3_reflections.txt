@@ -1,0 +1,4 @@
+c'est ici que je vais mettre mes notes de reflections !
+
+when would you want to use a remote repository rather than keeping all your work local ?:
+when u wan to be able to acces to work every where by internet or if u share you work with peaple so that every body can get acces to it 
