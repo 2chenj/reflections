@@ -9,4 +9,8 @@ forks create a copy of the  repo on your github it stays online clones make a co
 what is the benefits of having a compy of the kast knwon state of the remote stored locally 
 ?: so that when u make changes locally u can merge branches locally before u push them 
 
-how would you collaborate without using git or github ? wht would be easier, and what would ne harder ? : we could just send our docs by  email ! or any other means of sharing docs! it is more intuitive u would not have to learn all these new commands !! however it would be  hard to keep track of changes which is very important si better use git/github hein ! 
+how would you collaborate without using git or github ? wht would be easier, and what would ne harder ? : we could just send our docs by  email ! or any other means of sharing docs! it is more intuitive u would not have to learn all these new commands !! however it would be  hard to keep track of changes which is very important si better use git/github hein !
+
+when would you want to make changes in separate branch rather than directly in master ? wht benefits does each approach have ?
+
+making changes in master branch is more easier u juste have to pull/push however for an important projet it's better to make changes on different branch before making those changes to master for security matter to avoid un necessary risks !
